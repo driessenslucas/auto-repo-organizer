@@ -8,7 +8,7 @@ This repository provides a script and GitHub Actions workflow to automatically o
 
 ```plaintext
 project_folder/
-├── immoweb_scraper/
+├── sub_folder/
 │   ├── notebook1.ipynb
 │   ├── data1_output.csv
 │   ├── info.txt
@@ -36,7 +36,7 @@ project_folder/
 ├── scripts/
 │   ├── main.py
 │   ├── script.py
-├── immoweb_scraper/
+├── sub_folder/
 │   ├── data/
 │   │   ├── data1_output.csv
 │   │   ├── output/
